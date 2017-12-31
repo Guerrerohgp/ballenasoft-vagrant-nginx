@@ -4,7 +4,7 @@
 Vagrant.configure("2") do |config|
 
     config.vm.box = "ballenasoft-nginx"
-    #confif.vm.box_url = "https://www.dropbox.com/s/2bkb40be92t4oe6/ballenasoft-nginx.box?dl=1"
+    config.vm.box_url = "https://www.dropbox.com/s/2bkb40be92t4oe6/ballenasoft-nginx.box?dl=1"
     config.vm.hostname = "ballenasoft.local"
 
     config.vm.network "forwarded_port", guest: 80, host: 8080
