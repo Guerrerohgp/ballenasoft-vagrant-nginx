@@ -213,6 +213,7 @@
             <div class="buttons" style="position: absolute;top: 15%;">
                 <a class="borders" target="_blank" href="http://guerrerohgp.com/blog/vagrant-ballenasoft-nginx"><span>More Info</span></a>
                 <a class="borders" target="_blank" href="/phpmyadmin/"><span>PhpMyadmin</span></a>
+                <a class="borders" target="_blank" href="http://192.168.26.26:8025"><span>Mail Hog</span></a>
                 <a class="borders" target="_blank" href="/phpinfo.php"><span>PhpInfo</span></a>
             </div>
             <div class="content">
